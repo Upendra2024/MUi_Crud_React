@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "device": "Cisco router ",
+      "ip_address": "192.169.1.2",
+      "mac_address": "00:1A:2B:3C:4D:5E",
+      "description": "this is a Cisco wireless product one",
+      "id": 1
+    },
+    {
+      "device": "Hcl standard laptop",
+      "ip_address": "168.123.2.1",
+      "mac_address": "11:2A:3B:3C:4D:5E",
+      "description": "this is stadard HCL  asset",
+      "id": 2
+    },
+    {
+      "device": "IBM data server",
+      "ip_address": "192.244.3.4",
+      "mac_address": "22:1A:4B:2C:5D:7E",
+      "description": "this is IBM data sever",
+      "id": 3
+    },
+    {
+      "device": "Apple Ipad max",
+      "ip_address": "198.177.3.2",
+      "mac_address": "33:2A:6B:7C:2D:1E",
+      "description": "New ipad pro from Apple",
+      "id": 4
+    },
+    {
+      "device": "cisco webcam",
+      "ip_address": "198.163.25.12",
+      "mac_address": "12:2A:3B:3C:4D:5E",
+      "description": "this is webcam from cisco",
+      "id": 9
+    },
+    {
+      "device": "cisco cisco",
+      "ip_address": "1.1.1.1",
+      "mac_address": "11-11-11-11-11-11",
+      "description": "SHKDVCKJSDBVLJBD",
+      "id": 11
+    }
+  ]
+}

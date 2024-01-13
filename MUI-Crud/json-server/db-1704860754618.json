@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "device": "Cisco router ",
+      "ip_address": "192.169.1.2",
+      "mac_address": "00:1A:2B:3C:4D:5E",
+      "description": "this is a Cisco wireless product one",
+      "id": 1
+    },
+    {
+      "device": "Hcl standard laptop",
+      "ip_address": "168.123.2.1",
+      "mac_address": "11:2A:3B:3C:4D:5E",
+      "description": "this is stadard HCL  asset",
+      "id": 2
+    },
+    {
+      "device": "IBM Data server",
+      "ip_address": "198.177.3.7",
+      "mac_address": "22:2A:3B:4C:2D:9E",
+      "description": "this is high speed server from IBM data center",
+      "id": 3
+    },
+    {
+      "device": "Cisco landline",
+      "ip_address": "198.167.2.7",
+      "mac_address": "12:2A:3B:4C:2D:9E",
+      "description": "this is land line from cisco",
+      "id": 4
+    }
+  ]
+}

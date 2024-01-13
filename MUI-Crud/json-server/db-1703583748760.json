@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "device": "Mac book",
+      "ip_address": "5234-2343",
+      "mac_address": "524526395475",
+      "description": "Tis is desktop from Apple"
+    },
+    {
+      "device": "Hp pro book",
+      "ip_address": "5224-2344",
+      "mac_address": "520526795455",
+      "description": "Tis is desktop from Hp"
+    },
+    {
+      "device": " glaxy homebook",
+      "ip_address": "5204-2343",
+      "mac_address": "524526395875",
+      "description": "Tis is desktop fomm Samsung"
+    }
+  ]
+}

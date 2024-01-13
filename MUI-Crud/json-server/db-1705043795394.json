@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "device": "Cisco router ",
+      "ip_address": "192.169.1.2",
+      "mac_address": "00:1A:2B:3C:4D:5E",
+      "description": "this is a Cisco wireless product one",
+      "id": 1
+    },
+    {
+      "device": "Hcl standard laptop",
+      "ip_address": "168.123.2.1",
+      "mac_address": "11:2A:3B:3C:4D:5E",
+      "description": "this is stadard HCL  asset",
+      "id": 2
+    },
+    {
+      "device": "IBM Data server",
+      "ip_address": "198.177.3.7",
+      "mac_address": "22:2A:3B:4C:2D:9E",
+      "description": "this is high speed server from IBM data center",
+      "id": 3
+    },
+    {
+      "device": "Cisco landline",
+      "ip_address": "198.167.2.7",
+      "mac_address": "12:2A:3B:4C:2D:9E",
+      "description": "this is land line from cisco",
+      "id": 4
+    },
+    {
+      "device": "Workstation-01",
+      "ip_address": "192.168.1.10",
+      "mac_address": "00:1A:2B:3C:4D:5E",
+      "description": "Office Desktop - Marketing Department",
+      "id": 5
+    },
+    {
+      "device": "Server-Prod",
+      "ip_address": "10.0.0.5",
+      "mac_address": "08:00:27:11:22:33",
+      "description": "Production Server - Critical Applications",
+      "id": 6
+    },
+    {
+      "device": "Printer-Office",
+      "ip_address": "172.16.0.25",
+      "mac_address": "AA:BB:CC:DD:EE:FF",
+      "description": "Office Inkjet Printer",
+      "id": 7
+    },
+    {
+      "device": "Laptop-UserX",
+      "ip_address": "192.168.0.15",
+      "mac_address": "3C:D9:2B:AA:4F:0E",
+      "description": "Employee Laptop - UserX",
+      "id": 8
+    },
+    {
+      "device": "IoT-Sensor1",
+      "ip_address": "172.20.30.40",
+      "mac_address": "5F:4E:3D:2C:1B:0A",
+      "description": "Environmental Sensor - Lab",
+      "id": 9
+    },
+    {
+      "device": "SmartTV-Lounge",
+      "ip_address": "172.19.0.7",
+      "mac_address": "2B:4C:6D:8E:1F:3A",
+      "description": "Smart TV - Lounge Area",
+      "id": 10
+    },
+    {
+      "device": "Firewall-Gateway",
+      "ip_address": "10.1.1.1",
+      "mac_address": "F5:9E:C7:3B:1A:6D",
+      "description": "Network Firewall - Main Gateway",
+      "id": 11
+    },
+    {
+      "device": "NAS-Storage",
+      "ip_address": "10.20.30.40",
+      "mac_address": "B1:A2:C3:D4:E5:F6",
+      "description": "Network Attached Storage - Data Backup",
+      "id": 12
+    },
+    {
+      "device": "VoIP-Phone2",
+      "ip_address": "192.168.4.30",
+      "mac_address": "A3:1F:5B:9E:2C:7D",
+      "description": "Voice over IP Phone - Extension 2",
+      "id": 13
+    }
+  ]
+}

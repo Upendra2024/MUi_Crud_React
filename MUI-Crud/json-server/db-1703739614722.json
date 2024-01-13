@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "device": "Mac Book",
+      "ip_address": "5234-2343",
+      "mac_address": "524526395475",
+      "description": "Tis is desktop from Apple",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "device": " Galaxy Homebook",
+      "ip_address": "5204-2343",
+      "mac_address": "524526395875",
+      "description": "Tis is desktop from Samsung"
+    },
+    {
+      "device": "Cisco Router",
+      "ip_address": "143-16677-2345",
+      "mac_address": "52050760",
+      "description": "this is from Cisco manufacturing team",
+      "id": 4
+    },
+    {
+      "device": "Bsnl land line",
+      "ip_address": "143-16677-2345",
+      "mac_address": "645454216421",
+      "description": "this is from bsnl landline",
+      "id": 5
+    },
+    {
+      "device": "cisco datastrorage",
+      "ip_address": "1234-346-346",
+      "mac_address": "23526365",
+      "description": "this is from cisco data center",
+      "id": 6
+    }
+  ]
+}
