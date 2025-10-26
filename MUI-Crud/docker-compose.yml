@@ -1,0 +1,26 @@
+version: '3.9'
+
+services:
+  frontend:
+    build: ./react-crud
+    ports:
+      - "80:80"  # Nginx serves React on port 80 inside container
+    depends_on:
+      - json-server
+    networks:
+      - app-network
+
+  json-server:
+    build: ./json-server
+    container_name: json-server
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./json-server/data.json:/app/data.json
+    networks:
+      - app-network
+
+
+networks:
+  app-network:
+    driver: bridge
