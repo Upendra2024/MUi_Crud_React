@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://localhost:3005/products";
+const url = "http://localhost:3001/products";
 
 //get data
 export async function getData() {
@@ -29,3 +29,4 @@ export async function putData(id, data) {
     },
   });
 }
+
